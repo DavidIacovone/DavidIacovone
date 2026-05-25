@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm David Iacovone!
 
-I'm a **Senior Software Engineer** with a strong background in full-stack development, cloud architectures, and a passion for building scalable, efficient solutions. Currently, I work at **Fandom**, where I contribute to delivering an exceptional experience for millions of users globally. My technical expertise spans across **TypeScript**, **C#**, **Rust**, **React**, **Azure**, **AWS**, and various DevOps tools. I thrive in fast-paced, collaborative environments and am dedicated to continuous learning and open-source contributions.
+I'm a **Senior Software Engineer** with a strong background in full-stack development, cloud architectures, and a passion for building scalable, efficient solutions. Currently, I work at **Fandom**, where I contribute to delivering an exceptional experience for millions of users globally. My technical expertise spans across **TypeScript**, **Python**, **C#**, **Rust**, **React**, **Azure**, **AWS**, and various DevOps tools. I thrive in fast-paced, collaborative environments and am dedicated to continuous learning and open-source contributions.
 
 ---
 
 ### 🌟 What I Do:
-- **Full-Stack Development**: Extensive experience in building both front-end and back-end applications using technologies like **React**, **Redux**, **Node.js**, **TypeScript**, and **GraphQL**.
+- **Full-Stack Development**: Extensive experience in building both front-end and back-end applications using technologies like **React**, **Redux**, **Node.js**, **.NET**, **C#** **TypeScript**, and **GraphQL**.
 - **Cloud Architectures**: Proficient in designing and deploying cloud-native applications on **Azure** and **AWS**, ensuring reliability, scalability, and security for high-traffic platforms.
 - **Open Source Contributor**: Passionate about giving back to the community by contributing to and maintaining open-source projects.
 - **Team Leadership**: Experience mentoring junior developers and collaborating in Agile environments, focusing on code quality and efficient project delivery.
